@@ -1,3 +1,3 @@
-https://dev.azure.com/SALESDEPARTMENT/eShop/_apis/build/status/eShop-CI
+https://github.com/kaushikrahul08/kube-win-demo
 # eShopLegacyWebForms
 Sample ASP.NET application
