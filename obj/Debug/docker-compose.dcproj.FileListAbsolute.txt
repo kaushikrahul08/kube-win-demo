@@ -1,0 +1,2 @@
+D:\OneDrive - ALLEGIS GROUP\Git_Repo\AKS\kube-win-demo\eShopLegacyWebForms-master\bin\Debug\eShopLegacyWebForms.dll
+D:\OneDrive - ALLEGIS GROUP\Git_Repo\AKS\kube-win-demo\eShopLegacyWebForms-master\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
